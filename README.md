@@ -18,3 +18,14 @@ This is a simple wishlist management application built using React.js and Bootst
 
 # Contributing
 Contributions are welcome! Fork the repository and submit a pull request.
+
+# Dashboard
+![Capture](https://github.com/user-attachments/assets/5434d9c8-4d9d-4167-9ea8-a6c0b912d7fc)
+
+# Category 
+![New Category](https://github.com/user-attachments/assets/7f94faf2-24fa-4851-9464-466ec0607cba)
+
+# Task
+![new Task](https://github.com/user-attachments/assets/e38965fd-a4ba-426d-a22f-504fa6e60b36)
+
+
