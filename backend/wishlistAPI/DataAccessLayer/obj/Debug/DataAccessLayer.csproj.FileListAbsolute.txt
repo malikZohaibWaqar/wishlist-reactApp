@@ -1,0 +1,10 @@
+F:\01 - Learning\wishlistAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\01 - Learning\wishlistAPI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\01 - Learning\wishlistAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+F:\01 - Learning\wishlistAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\01 - Learning\wishlistAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\01 - Learning\03 - VS2013\wishlistAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\01 - Learning\03 - VS2013\wishlistAPI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\01 - Learning\03 - VS2013\wishlistAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+F:\01 - Learning\03 - VS2013\wishlistAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\01 - Learning\03 - VS2013\wishlistAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
