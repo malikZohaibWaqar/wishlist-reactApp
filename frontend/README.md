@@ -1,8 +1,16 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple wishlist management application built using React.js and Bootstrap. It allows users to manage tasks categorized under different categories. Users can create, update, and delete both categories and tasks.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+## Categories: 
+Display categories on the main page.
+## Tasks:   
+Load tasks based on the selected category.
+## CRUD Operations:
+1.  Create new categories and tasks.
+2.  Update existing categories and tasks.
+3.  Delete categories and tasks.
+## Technologies Used
+1. React.js
+2. Bootstrap
